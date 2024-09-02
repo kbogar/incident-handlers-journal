@@ -1,6 +1,6 @@
-# Reviewed and documented security incidents using the incident handler`s journal
+# Reviewed and documented a security incident using the incident handler`s journal
 
-## Scenario #1
+## Scenario
 
 As a cybersecurity analyst, I have to review the details of a security incident and document the incident using the incident handler`s journal.
 
@@ -11,3 +11,7 @@ Employees also reported that a ransom note was displayed on their computers. The
 The attackers were able to gain access to the companys network by using targeted phishing emails, which were sent to several employees of the company. The phishing emails contained a malicious attachment that installed malware on the employee`s computer once it was downloaded.
 
 Once the attackers gained access, they deployed their ransomware, which encrypted critical files. The company was unable to access critical patient data, causing major disruptions in its business operations. The company was forced to shut down its computer systems and contact several organizations to report the incident and receive technical assistance
+
+## Incident Handler`s Journal
+
+![](/docs/scenario.png)
